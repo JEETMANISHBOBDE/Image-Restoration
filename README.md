@@ -1,6 +1,7 @@
 # Image-Restoration
 
 *Tech Stack Used*:
+
 Language: Python
 Frameworks & Libraries:
 TensorFlow: For building and training the convolutional autoencoder model
